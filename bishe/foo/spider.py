@@ -43,3 +43,5 @@ if __name__ == '__main__':
     url ='https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SNAD&dbname=SNAD&filename=SNAD000000006385'
     a = spider_(url)
     print(a.info_spider())
+
+    #测试
